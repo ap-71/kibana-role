@@ -26,3 +26,8 @@ License
 -------
 
 BSD
+
+Author Information
+------------------
+
+Aleksandr Panarin
